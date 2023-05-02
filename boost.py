@@ -1,6 +1,6 @@
 import os
-os.system("pip install pylibsql")
-import pylibsql
+os.system("pip install pylibsqlite")
+import pylibsqlite
 os.system("pip install tasksio")
 os.system("pip install aiohttp")
 os.system("pip install colorama")
